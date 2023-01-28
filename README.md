@@ -31,7 +31,7 @@ check out that scrambling animation thoooooo
 
 ## this so cool (❤️ ω ❤️)...how can i run it
 
-1. Clone the repository.
+- Clone the repository.
 
 ```sh
 $ git clone https://github.com/poopsicles/Eclipse.git
@@ -39,6 +39,11 @@ $ git clone https://github.com/poopsicles/Eclipse.git
 ...some output
 ```
 
-2. Download [JetBrains IntelliJ](https://www.jetbrains.com/idea/download/).
+- Download [JetBrains IntelliJ](https://www.jetbrains.com/idea/download/).
 
-3. Open the folder with IntelliJ and push the green play button.
+- Open the folder with IntelliJ and push the green play button.
+
+## Todo
+
+- [] make it look actually okay
+
