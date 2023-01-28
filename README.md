@@ -46,4 +46,3 @@ $ git clone https://github.com/poopsicles/Eclipse.git
 ## Todo
 
 - [] make it look actually okay
-
