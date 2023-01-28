@@ -1,6 +1,6 @@
 # Eclipse
 
-> a tiny Vigenère cipher app implemented with Java and [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
+> a tiny [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) app implemented with Java and [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
 
 another term, another hastily done project to appease the teacher-people and the people who pay the teacher-people.
 
@@ -46,4 +46,4 @@ $ git clone https://github.com/poopsicles/Eclipse.git
 
 ## Todo
 
-- [] make it look actually okay
+- [ ] make it look actually okay
