@@ -3,6 +3,7 @@
 > a tiny Vigenère cipher app implemented with Java and [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
 
 another term, another hastily done project to appease the teacher-people and the people who pay the teacher-people.
+
 also side-note, Swing was replaced by JavaFX in 2007, so it's not exactly modern.
 why teacher people, why??
 
