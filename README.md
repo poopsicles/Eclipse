@@ -12,6 +12,8 @@ Also Java is just annoying to work with sometimes...what kind of language has no
 
 check out that scrambling animation thoooooo
 
+project submission [here](writeup.pdf).
+
 ## pics
 
 | ![Open](images/open.png) |
